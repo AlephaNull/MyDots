@@ -52,7 +52,7 @@
 ![ranger-img](img/ranger.png)
 * Compositor - I use picom as my compositor. I just use the default config 
 
-* Web Browser - I use nyxt as my main browser. It's written in Common Lisp and extremely customizable. I also use Brave if I need more graphical browser
+* Web Browser - I use qutebrowser as my main browser. It is very cutomizable and written in Python.   
 ![nyxt](img/nyxt.png)
 * Emacs - Even though nvim is my main text editor, I do enjoy hacking around with emacs. 
    * Packages
